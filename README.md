@@ -44,7 +44,7 @@ Widely used statistical model for binary classification. It predicts the probabi
 
 **Tokenizer:** [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
-![download](https://github.com/user-attachments/assets/689000b5-f74e-4bfd-8d48-3d015779ffbc)
+![image](https://github.com/user-attachments/assets/a7e79512-db15-48c9-bc71-374ec2b14820)
 
 - **Naive Bayes**
   
