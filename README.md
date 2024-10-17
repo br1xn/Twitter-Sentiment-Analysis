@@ -94,7 +94,7 @@ I was able to use only limited number of epochs due to its long training time an
 
 ## Sentiment Analyzer
 
-A simple sentiment analyzer is built to check the sentiment of the tweets/Reviews pasted in the text box. Sentiment score will be show according to the sentiment along with probability of the sentiment being positive , negative or neutral.
+A sentiment analyzer is built using the streamlit interface where user can upload the required sentiment-to-be-found file and after analyzing would give you accurate sentiment next to the text also to help visually would provide you with bar chart and pie chart of the over all analysis. If needed user can install the csv file which contains all the sentiment results directly from it.
 
 **Model used:** [bert-base-multilingual-uncased-sentiment ](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment)
 
