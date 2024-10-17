@@ -99,9 +99,11 @@ A simple sentiment analyzer is built to check the sentiment of the tweets/Review
 **Model used:** [bert-base-multilingual-uncased-sentiment ](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment)
 
 - Demo video
+  
 https://github.com/user-attachments/assets/a5310205-fb54-42c0-a92b-4eeaf5d92fa1
 
 - Batch sentiment analysis
+  
 https://github.com/user-attachments/assets/b821aeb9-f078-419f-8e0f-afd49af005e2
 
 
